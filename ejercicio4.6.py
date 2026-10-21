@@ -9,3 +9,7 @@ Por eso, algo que parece un exceso de halos podria deberse a que estan calculand
   
 Antes de cambiar el modelo cosmologico, se deberia revisar ese calculo.
 Con lo que dice el enunciado , no alcanza para asegurar que el modelo este mal ni que el exceso vaya a desaparecer al hacer esta revision.""")
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# 
