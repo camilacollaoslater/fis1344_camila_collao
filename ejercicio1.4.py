@@ -6,5 +6,6 @@ for n in range(0,101):
        suma_total = suma_total + termino
 print(f"el resultado es {suma_total}")
 
-
-
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen la inicialización, los ciclos anidados y la acumulación de la suma.
