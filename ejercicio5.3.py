@@ -41,3 +41,7 @@ print(f"Compresion del poema: {bits_poema} bits, {R_poema:.6f} bits por letra.")
 print(f"La e es la unica vocal y aparece {cantidad_e} de {total_letras} veces.")
 print("El poema tiene menor entropia que la distribucion general del español.")
 print("Esto permite mayor compresion: menos bits por letra.")
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen los pasos del cálculo de las probabilidades, las entropías y la compresión.
