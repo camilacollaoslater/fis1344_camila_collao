@@ -64,3 +64,7 @@ La serie de Taylor evita esta resta y mantiene un error cercano a la
 precision de la maquina. Por eso, el algoritmo obvio es inestable cerca
 de cero, mientras que Taylor es estable y mas preciso.
 """)
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen el cálculo del número de condicionamiento y la preparación de los valores usados en la comparación.
