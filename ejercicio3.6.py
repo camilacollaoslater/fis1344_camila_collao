@@ -32,3 +32,7 @@ plt.show()
 print('Poisson se puede usar cuando r es grande y p = 2/r es pequeño,')
 print('con ensayos independientes y lambda = r*p = 2')
 print('al aumentar r, la distribucion binomial se aproxima a Poisson.')
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen las funciones de probabilidad, la elección de parámetros y la construcción de las curvas.
