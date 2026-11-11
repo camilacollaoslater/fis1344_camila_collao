@@ -25,3 +25,6 @@ def newton(f,df,p,tolerancia):
 # La derivada de f es la gaussiana evaluada en p.
 x = newton(f, gaussiana, 1.0, 1e-5)
 print(f"x = {x:.8f}")
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
