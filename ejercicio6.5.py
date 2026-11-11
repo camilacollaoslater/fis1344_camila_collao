@@ -38,3 +38,6 @@ print(f"Prediccion para 1990:{P1990:.3f}")
 print(f"Prediccion para 2020:{P2020:.3f}")
 print(f"Poblacion real en 1990:{real_1990}")
 print(f"El modelo subestima la poblacion de 1990 en {error_relativo:.4f}%.")
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
