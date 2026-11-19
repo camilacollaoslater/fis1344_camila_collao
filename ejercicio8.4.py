@@ -40,3 +40,6 @@ grad_v = grad_uv * u + grad_sen_v * np.cos(v) + grad_cubo * 3 * v**2
 
 print(f"\ndf/du = {grad_u:.10f}")
 print(f"df/dv = {grad_v:.10f}")
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
