@@ -72,3 +72,6 @@ print("La de orden 5 tiene menos error en este problema.")
 print("Se usa la de orden 4 porque la diferencia entre ambas permite estimar" 
       "su error y ajustar el paso. Esa diferencia no estima directamente"
       "el error de la de orden 5.")
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
